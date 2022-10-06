@@ -2,7 +2,7 @@ package class14;
 
 public class Task4 {
     public static void main(String[] args) {
-        /* How would yoiu reverse a String word by word? 
+        /* How would you reverse a String word by word?
          */
         String str="This is sentence I want to reverse";
         String [] arr=str.split(" ");
